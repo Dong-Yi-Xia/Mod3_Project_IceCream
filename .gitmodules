@@ -1,3 +1,9 @@
 [submodule "backend_api"]
 	path = backend_api
 	url = https://github.com/Dong-Yi-Xia/Mod3_Project_IceCream/backend_api
+[submodule "Mod3_Project_frontend"]
+	path = Mod3_Project_frontend
+	url = https://github.com/Dong-Yi-Xia/Mod3_Project_frontend
+[submodule "Mod3_Project_backend_api"]
+	path = Mod3_Project_backend_api
+	url = https://github.com/Dong-Yi-Xia/Mod3_Project_backend_api
